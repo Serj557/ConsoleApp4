@@ -15,7 +15,7 @@
             }
             else if (a > 55)
             {
-                Console.WriteLine("На пенсию");
+                Console.WriteLine("На пенис");
             }
         }
     }
